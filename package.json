@@ -1,12 +1,12 @@
 {
   "name": "directory_template",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "description": "",
-  "homepage": "https://bootstrapious.com",
+  "homepage": "https://legenki.com",
   "bugs": "",
   "keywords": [],
   "contributors": [
-    "Bootstrapious <hello@bootstrapious.com>"
+    "Andy Legenki <andy@legenki.com>"
   ],
   "dependencies": {
     "bootstrap": "^4.3.1",

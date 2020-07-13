@@ -1,7 +1,7 @@
 /*!
  *
  * Directory Theme 1.2.0
- * Copyright 2019 - Bootstrapious.com
+ * Copyright 2019 - Legenki.com
  * 
  */
 
