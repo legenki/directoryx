@@ -23,9 +23,9 @@
     "swiper": "^4.4.6"
   },
   "devDependencies": {
-    "browser-sync": "~2.18.13",
+    "browser-sync": "^2.26.7",
     "del": "^3.0.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-cdnizer": "^2.0.2",
     "gulp-changed": "^3.2.0",
